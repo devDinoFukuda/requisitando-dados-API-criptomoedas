@@ -1,0 +1,1 @@
+# requisitando-dados-API-criptomoedas
